@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '28356'
     url: http://www.gutenberg.org/2009/agents/28356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25034#Report-of-the-Chief-Librarian-for-the-Year-Ended-31-March-1958--Special-Centennial-Issue
 gutenberg_bookshelf: New Zealand
 gutenberg_issued: '2008-04-10'
 gutenberg_type: Text
