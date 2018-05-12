@@ -1,0 +1,34 @@
+_repo: Report-of-the-Chief-Librarian-for-the-Year-Ended-31-March-1958--Special-Centennial-Issue_25034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Wilson, J. O.
+    gutenberg_agent_id: '28357'
+    url: http://www.gutenberg.org/2009/agents/28357
+  - agent_name: New Zealand. General Assembly Library
+    gutenberg_agent_id: '28355'
+    url: http://www.gutenberg.org/2009/agents/28355
+  editor:
+    agent_name: Burns, A. D.
+    gutenberg_agent_id: '28356'
+    url: http://www.gutenberg.org/2009/agents/28356
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2008-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'General Assembly Library -- Periodicals'
+- !lcsh 'Libraries -- New Zealand -- Periodicals'
+- !lcc 'Z'
+title: 'Report of the Chief Librarian for the Year Ended 31 March 1958: Special Centennial
+  Issue'
+url: http://www.gutenberg.org/ebooks/25034
